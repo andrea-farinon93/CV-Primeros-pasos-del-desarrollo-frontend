@@ -124,6 +124,11 @@
     text-align: left;
 		}} 
 
+.redes_sociales img:hover {
+  width: 85px;
+  border-color: #f7f3f3;
+}
+
 
 /*Seccion datos personales*/
 #datos {
