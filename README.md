@@ -25,5 +25,5 @@ En este proyecto he buscado integrar cada uno de los temas vistos durante el cur
 
 Por cuestiones de tiempo no he podido realizar el proyecto como aplicacion web progresiva (PWA) pero si he puesto mi interés para proyectos futuros.
 
-El trabajo final se cargó en Github pages https://andrea-farinon93.github.io/ 
+El trabajo final se cargó en Github pages https://andrea-farinon93.github.io/CV-Primeros-pasos-del-desarrollo-frontend/
 
