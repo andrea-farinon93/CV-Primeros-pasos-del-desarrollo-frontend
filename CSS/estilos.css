@@ -352,7 +352,14 @@ color:#000;
   margin-bottom: 10px;
 }
 
+/*Proyecto final*/
+#proyecto_final {
+  text-align: center;
+}
 
+#proyecto_final a {
+color: #000;
+}
 
 /*formulario*/
 
